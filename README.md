@@ -86,7 +86,7 @@ GlazeWM es un **tiling window manager para Windows**, inspirado en gestores como
 
 ### 2.2 Descarga
 
-**Enlace de descarga (dejar aquí):**
+**Enlace de descarga **
 
 👉 https://github.com/amnweb/yasb
 
@@ -126,7 +126,7 @@ Aquí se encuentran archivos como:
 
 ### 3.1 Descarga
 
-**Enlace de descarga (dejar aquí):**
+**Enlace de descarga**
 
 👉 https://github.com/glzr-io/glazewm
 
