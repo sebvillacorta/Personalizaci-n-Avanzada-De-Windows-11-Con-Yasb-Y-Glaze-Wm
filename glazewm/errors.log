@@ -1,0 +1,26 @@
+[2m2025-11-27T06:39:44.254807Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-11-27T06:45:08.184624Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-11-27T06:45:10.294070Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-11-27T06:47:46.781082Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-11-30T05:26:00.749156Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-11-30T05:26:00.751304Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-11-30T05:26:03.752564Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-11-30T08:07:01.002680Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-12-01T11:28:50.845871Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-12-01T11:48:47.592759Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-12-01T11:48:47.997373Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-12-02T00:42:36.071518Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-12-02T02:13:57.462567Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-12-04T01:58:31.400879Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-12-04T05:36:38.727098Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-12-06T06:48:52.462081Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No workspace config available to activate workspace.
+[2m2025-12-06T06:49:20.252836Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No workspace config available to activate workspace.
+[2m2025-12-06T06:49:37.754400Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No workspace config available to activate workspace.
+[2m2025-12-06T06:51:23.225730Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 78 column 3, while parsing a block mapping at line 58 column 3
+[2m2025-12-06T06:53:36.748592Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 78 column 3, while parsing a block mapping at line 58 column 3
+[2m2025-12-06T06:53:37.161096Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 78 column 3, while parsing a block mapping at line 58 column 3
+[2m2025-12-18T12:57:53.146696Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
